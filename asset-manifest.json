@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/note-keeper/static/js/main.9a9b275a.chunk.js",
-    "main.js.map": "/note-keeper/static/js/main.9a9b275a.chunk.js.map",
+    "main.js": "/note-keeper/static/js/main.5df3f156.chunk.js",
+    "main.js.map": "/note-keeper/static/js/main.5df3f156.chunk.js.map",
     "runtime-main.js": "/note-keeper/static/js/runtime-main.41d0bfcf.js",
     "runtime-main.js.map": "/note-keeper/static/js/runtime-main.41d0bfcf.js.map",
-    "static/js/2.7c83e95b.chunk.js": "/note-keeper/static/js/2.7c83e95b.chunk.js",
-    "static/js/2.7c83e95b.chunk.js.map": "/note-keeper/static/js/2.7c83e95b.chunk.js.map",
+    "static/js/2.20b5e327.chunk.js": "/note-keeper/static/js/2.20b5e327.chunk.js",
+    "static/js/2.20b5e327.chunk.js.map": "/note-keeper/static/js/2.20b5e327.chunk.js.map",
     "index.html": "/note-keeper/index.html",
-    "precache-manifest.bf28e7aa0a849ad4920b68e667011f0c.js": "/note-keeper/precache-manifest.bf28e7aa0a849ad4920b68e667011f0c.js",
+    "precache-manifest.6fcce083af76bba79ec6ae701a09ec31.js": "/note-keeper/precache-manifest.6fcce083af76bba79ec6ae701a09ec31.js",
     "service-worker.js": "/note-keeper/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.41d0bfcf.js",
-    "static/js/2.7c83e95b.chunk.js",
-    "static/js/main.9a9b275a.chunk.js"
+    "static/js/2.20b5e327.chunk.js",
+    "static/js/main.5df3f156.chunk.js"
   ]
 }
